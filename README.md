@@ -1,2 +1,6 @@
 # Spele_EI10
-Spele
+Burtu meklēšanas spēle
+Pirmā nodarbība
+Izdarīts:
+    - izveidots repozitorijs
+    - klonējam uz lokālā
